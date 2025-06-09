@@ -19,13 +19,9 @@ The purpose of this lab was to set up active directory in a virtual environment 
 
 <h2>Lab walk-through:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://imgur.com/a/pAqHK6s" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/1Mz8Mya" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
