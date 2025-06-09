@@ -15,7 +15,7 @@ The purpose of this lab was to set up active directory in a virtual environment 
 <h2>Environments Used </h2>
 
 - <b>Windows Server 2025</b>
-- <b>Windows 11 Pro</b>
+- <b>Windows 10 Pro</b>
 
 <h2>Lab walk-through:</h2>
 
@@ -45,7 +45,8 @@ Select the disk:  <br/>
 ![Image](https://github.com/user-attachments/assets/1089ceac-2d87-45ca-8a18-0e184712a6ad)
 <br />
 <br />
+![Image](https://github.com/user-attachments/assets/23443f0f-91ba-474f-85f3-1afe61f587c2)
 <br />
 <br />
-
+![Image](https://github.com/user-attachments/assets/648794e3-4f5b-4f47-a84d-442e48db51ce)
 
