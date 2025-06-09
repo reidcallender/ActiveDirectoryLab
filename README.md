@@ -21,7 +21,7 @@ The purpose of this lab was to set up active directory in a virtual environment 
 
 
 Select the disk:  <br/>
-<img src="https://imgur.com/a/1Mz8Mya" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![Image](https://github.com/user-attachments/assets/952550fb-a7ca-4bd6-b69b-2a304b27a4f8)
 <br />
 <br />
 Enter the number of passes: <br/>
