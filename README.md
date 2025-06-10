@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The purpose of this lab was to set up active directory in a virtual environment in order to gain some experience with this technology and some basic Windows networking in general. This lab utilized two virtual machines which I created using Oracle VirtualBox. The first VM named, "Server2025", served as my domain controller. Server2025 has two network adapters. The first adapter connected to the internet through my router and was assigned an IP address from DHCP. The second adapter acted as an internal network for clients to connect to and access internet through the domain contoller. I used server roles to implement Active Directory, RAS/NAT, and DHCP. I used a powershellscript obtained from Josh Madakor to simulated 1,000 users in the active Directory. I then connected to my second VM titled "client1" to verify that the network had been implemented succesfully and added this device to the domain.   
+The purpose of this lab was to set up active directory in a virtual environment in order to gain some experience with this technology and some basic Windows networking in general. This lab utilized two virtual machines which I created using Oracle VirtualBox. The first VM named, "Server2025", served as my domain controller. Server2025 has two network adapters. The first adapter connected to the internet through my router and was assigned an IP address from DHCP. The second adapter acted as an internal network for clients to connect to and access the internet through the domain controller. I used server roles to implement Active Directory, RAS/NAT, and DHCP. I used a PowerShell script obtained from Josh Madakor to simulate 1,000 users in the active Directory. I then connected to my second VM titled "client1" to verify that the network had been implemented successfully and added this device to the domain.   
 <br />
 
 
@@ -60,7 +60,7 @@ The final result of the script. <br/>
 ![Image](https://github.com/user-attachments/assets/1089ceac-2d87-45ca-8a18-0e184712a6ad)
 <br />
 <br />
-Logged into our client1 VM and verified that the network had been succesfully implemented and the client is receiving an IP adress from the DHCP server. <br/>
+Logged into our client1 VM and verified that the network had been successfully implemented and the client is receiving an IP address from the DHCP server. <br/>
 <br />
 ![Image](https://github.com/user-attachments/assets/23443f0f-91ba-474f-85f3-1afe61f587c2)
 <br />
